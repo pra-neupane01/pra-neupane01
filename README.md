@@ -1,32 +1,67 @@
-# Hi 👋, I'm Pralad Neupane
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Pralad Neupane</h1>
 
-📧 Email Me: neupaneprakash9999@gmail.com  
-For collaboration or projects 😊
+<h3 align="center">🚀 Backend Developer | Full Stack Learner | Building Digital Solutions</h3>
+
+<p align="center">
+  <a href="mailto:neupaneprakash9999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials
+## 👨‍💻 About Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/praNeupane01)
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/praka5h_n/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](yourlink)
+- 🔭 Currently building **Sundar Samadhan – Municipal Complaint System**
+- 🌱 Learning **Advanced Backend Architecture & Real-time Systems**
+- 💡 Interested in **Scalable Systems, APIs & Clean Code**
+- 🎯 Goal: Become a Professional Backend Engineer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/praNeupane01" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/praka5h_n/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,postgres,git,github" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pra-neupane01&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pra-neupane01&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=pra-neupane01&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pra-neupane01&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra-neupane01&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏗 Current Focus
+
+```bash
+✔ Backend Development with Node.js
+✔ PostgreSQL Database Design
+✔ REST API Architecture
+✔ Real-time Notifications using Socket.io
+✔ Clean and Scalable Code Practices
