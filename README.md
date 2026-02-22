@@ -53,17 +53,17 @@ I'm a passionate backend developer currently pursuing my Bachelor's degree in Co
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pra-neupane01&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pra-neupane01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neupaneprakash9999@gmail.com)
 
 ---
 
@@ -73,13 +73,8 @@ I'm always open to interesting projects and opportunities. Feel free to reach ou
 
 ---
 
-⭐️ From [Pralad Neupane](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Pralad Neupane](https://github.com/pra-neupane01)
 
 ---
 
-**Note:** Don't forget to replace:
-- `YOUR_GITHUB_USERNAME` with your actual GitHub username
-- `YOUR_LINKEDIN_URL` with your LinkedIn profile URL
-- `YOUR_EMAIL` with your email address
 
-This will make the GitHub stats and badges work properly!
