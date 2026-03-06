@@ -75,11 +75,7 @@ I'm a passionate backend developer currently pursuing my Bachelor's degree in Co
 
 ---
 
-## 📫 Let's Collaborate!
 
-I'm always open to interesting projects and opportunities. Feel free to reach out if you want to collaborate on backend projects or discuss tech!
-
----
 
 ⭐️ From [Pralad Neupane](https://github.com/pra-neupane01)
 
