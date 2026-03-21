@@ -1,7 +1,5 @@
 # Hi there, I'm Pralad Neupane 👋
 
-**Backend Developer | Database Architect | Full Stack Enthusiast**
-
 🌍 Salakpur, Morang, Nepal
 
 ---
@@ -10,12 +8,6 @@
 
 I'm a passionate backend developer currently pursuing my Bachelor's degree in Computing (Honours) at Itahari International College in partnership with London Metropolitan University. I love building robust, scalable systems and working with databases to create efficient digital solutions.
 
-- 🔭 Currently building **Sundar Samadhan** – A Municipal Complaint Management System
-- 🎓 Computing (Honours) student at Itahari International College × London Met University
-- 💻 Specialized in **Backend Development** and **Database Design**
-- 🌱 Learning **Advanced Backend Architecture**, **Real-time Systems**, and **Microservices**
-- 🎯 Goal: Become a Professional Backend Engineer building impactful solutions
-- 📍 Based in Salakpur, Morang, Nepal
 
 ---
 
