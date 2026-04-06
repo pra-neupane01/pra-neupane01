@@ -57,7 +57,7 @@ Instead of just listing tools, here’s how I actually *use* them:
 ## 🌐 Let's Connect
 
 - 💻 GitHub: https://github.com/pra-neupane01  
-- 📧 Email: prabin.neupane.work@gmail.com  
+- 📧 Email: neupaneprakash9999@gmail.com  
 
 ---
 
