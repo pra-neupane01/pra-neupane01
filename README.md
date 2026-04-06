@@ -1,76 +1,74 @@
-# Hi there, I'm Pralad Neupane 👋
+# 👋 Namaste, I'm Pralad Neupane
 
-🌍 Salakpur, Morang, Nepal
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate backend developer currently pursuing my Bachelor's degree in Computing (Honours) at Itahari International College in partnership with London Metropolitan University. I love building robust, scalable systems and working with databases to create efficient digital solutions.
-
+### ⚙️ Backend Learner | Building Systems That Scale 🚀  
+📍 Nepal 🇳🇵
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Who Am I?
 
-**Backend & Databases**
-- Node.js, Express.js
-- PostgreSQL, MySQL
-- REST API Design
-- Socket.io (Real-time)
+I’m a backend-focused learner who enjoys designing systems that actually *work under pressure*.  
+I don’t just write code — I think about **performance, structure, and scalability**.
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React.js (Learning)
-
-**Tools & Others**
-- Git & GitHub
-- Postman
-- VS Code
+Currently leveling up in:
+- 🧩 Problem Solving 
+- ⚡ Backend Architecture
 
 ---
 
-## 🏗️ Current Focus
+## 🧰 My Technical Universe
 
-```bash
-✔ Backend Development with Node.js & Express
-✔ PostgreSQL Database Design & Optimization
-✔ Building RESTful APIs
-✔ Real-time Features using Socket.io
-✔ Clean Code & Scalable Architecture
-✔ Learning System Design Patterns
-```
+Instead of just listing tools, here’s how I actually *use* them:
 
----
+### 🔹 Core Development
+`Java` • `Spring Boot` • `REST APIs`  
+→ I build structured, maintainable backend systems with clean architecture.
 
-## 📊 GitHub Stats
+### 🔹 Data Handling
+`MySQL` • `API Integration`  
+→ Designing efficient data flow and handling real-world datasets.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pra-neupane01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+### 🔹 Problem Solving
+`Data Structures & Algorithms`  
+→ Writing optimized logic, not just working code.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pra-neupane01&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🔹 Development Workflow
+`Git` • `GitHub` • `Postman`  
+→ Version control, testing APIs, and collaborating like a developer.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pra-neupane01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### 🔹 Supporting Stack
+`HTML` • `CSS` • `JavaScript`  
+→ Enough frontend to connect everything together.
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Developer Mindset
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pra-neupane01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neupaneprakash9999@gmail.com)
+> “Good code works. Great code scales.”
 
----
-
-
-
-⭐️ From [Pralad Neupane](https://github.com/pra-neupane01)
+- Clean and readable code  
+- System-level thinking  
+- Continuous improvement mindset  
 
 ---
 
+---
 
+## 🌐 Let's Connect
+
+- 💻 GitHub: https://github.com/pra-neupane01  
+- 📧 Email: prabin.neupane.work@gmail.com  
+
+---
+
+## 🧩 Fun Zone
+
+- ☕ Debugging feels easier with coffee  
+- 🧠 I enjoy solving problems more than UI  
+- 🎯 Goal: Become a high-level backend engineer  
+
+---
+
+## 🚀 Motto
+
+**Build → Break → Learn → Improve → Repeat**
