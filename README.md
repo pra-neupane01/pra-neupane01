@@ -21,7 +21,7 @@ Currently leveling up in:
 Instead of just listing tools, here’s how I actually *use* them:
 
 ### 🔹 Core Development
-`Java` • `Spring Boot` • `REST APIs`  
+`Java`  • `REST APIs`  
 → I build structured, maintainable backend systems with clean architecture.
 
 ### 🔹 Data Handling
