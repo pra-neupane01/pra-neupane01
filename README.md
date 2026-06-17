@@ -72,7 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pra-neupane01&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GitHub Stats" />
