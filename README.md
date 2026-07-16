@@ -83,13 +83,6 @@
   <img src="https://streak-stats.demolab.com/?user=pra-neupane01&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=pra-neupane01&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pra-neupane01&theme=dark&radius=10" alt="Activity Graph" width="100%" />
-</p>
 
 ---
 
