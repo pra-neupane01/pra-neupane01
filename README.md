@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 
-I'm an undergraduate IT student and **Java Backend Developer** passionate about building RESTful APIs and backend applications using **Spring Boot** and **Django**. I enjoy solving problems, writing clean code and learning new technologies.
+I'm an undergraduate IT student and **Backend Developer** passionate about building RESTful APIs and backend applications using **Spring Boot** and **Django**. I enjoy solving problems, writing clean code and learning new technologies.
 
 <br>
 
