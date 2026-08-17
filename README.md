@@ -1,7 +1,7 @@
 <div align="center">
 
 # PRALAD NEUPANE
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"/> JAVA BACKEND DEVELOPER
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"/> BACKEND DEVELOPER
 
 *Building robust, scalable and efficient backend systems.*
 
