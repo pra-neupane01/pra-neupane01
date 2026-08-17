@@ -1,138 +1,86 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=PRALAD%20NEUPANE&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+# Hi there, I'm Pralad Neupane 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+scalable+and+reliable+backend+systems" alt="Typing introduction" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pra-neupane01">
-    <img src="https://komarev.com/ghpvc/?username=pra-neupane01&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
-  </a>
-</p>
+```
+  ____            _        _   _                                   
+ |  _ \ _ __ a   | |  __ _| | | |  _ __   ___  _   _ _ __   __ _ _ __  ___ 
+ | |_) | '__/ _` | | / _` | | | | | '_ \ / _ \| | | | '_ \ / _` | '_ \ / _ \
+ |  __/| | | (_| | || (_| | | | |_| | | |  __/| |_| | |_) | (_| | | | |  __/
+ |_|   |_|  \__,_|_| \__,_|_|_|\___/|_| |_|\___| \__,_| .__/ \__,_|_| |_|\___|
+                                                      |_|                  
+```
+
+### ☕ **JAVA BACKEND DEVELOPER**
+*Building robust, scalable and efficient backend systems.*
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pralad--neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pralad-neupane)
+[![Email](https://img.shields.io/badge/Gmail-neupaneprakash9999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neupaneprakash9999@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B977_9811084680-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779811084680)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an undergraduate IT student and **Java Backend Developer** focused on building RESTful APIs and backend applications using **Spring Boot**.
-
-* 🔭 Currently building backend projects with **Java & Spring Boot**
-* 🌱 Improving my knowledge of **Spring Boot, Spring Security, JPA & REST APIs**
-* 🗄️ Working with **PostgreSQL & MySQL**
-* 🐳 Learning and applying **Docker & deployment**
-* 🤝 Open to collaborating on **backend and full-stack projects**
-* 💡 Interested in writing clean, maintainable and scalable backend systems
+I'm an undergraduate **IT student** and **Java Backend Developer** passionate about building RESTful APIs and backend applications using **Spring Boot** and **Django**. I enjoy solving problems, writing clean code, and learning new technologies.
 
 ---
 
-## 🎯 My Focus
+## ⚡ What I Do
 
-**Backend Development**
-
-Java • Spring Boot • REST APIs • Spring Data JPA • PostgreSQL • MySQL • Docker
-
----
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
-</p>
-
-<h3 align="center">Backend</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" />
-</p>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" />
-</p>
-
-<h3 align="center">Database</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" />
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" />
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" />
-</p>
+| Domain | Focus & Technologies |
+| :--- | :--- |
+| 💻 **Backend Development** | REST APIs, Microservices, System Services |
+| 🗄️ **Database Design** | Database Schema Architecture, PostgreSQL, MySQL |
+| 🔒 **Authentication & Security** | Spring Security, JWT (JSON Web Tokens), Role & Permission Management |
+| 🐳 **Deployment & DevOps** | Docker Containerization, Environment Setup & Configuration |
+| 🧠 **Problem Solving** | Clean Code Principles, Software Design Patterns, Best Practices |
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pra-neupane01&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="GitHub Stats" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pra-neupane01&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-</p>
+### 🗣️ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pra-neupane01&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" />
-</p>
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005596?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🐍 Django Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Developer Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🔗 Connect With Me
+## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pralad-neupane-435874392">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/9779811084680">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:neupaneprakash9999@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+- **LinkedIn:** [/pralad-neupane](https://linkedin.com/in/pralad-neupane)
+- **WhatsApp:** [+977 9811084680](https://wa.me/9779811084680)
+- **Email:** [neupaneprakash9999@gmail.com](mailto:neupaneprakash9999@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
+> *"Code with purpose, build with passion."*
