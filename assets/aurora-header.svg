@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pralad Neupane</title>
+  <desc id="desc">Aurora gradient banner with a dimensional wordmark and a dot-matrix portrait.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111f"/>
+      <stop offset="0.52" stop-color="#102d37"/>
+      <stop offset="1" stop-color="#241b3d"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#52e0bd" stop-opacity=".05"/>
+      <stop offset=".48" stop-color="#52e0bd" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity=".16"/>
+    </linearGradient>
+    <linearGradient id="letters" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3fff9"/>
+      <stop offset="1" stop-color="#8debd0"/>
+    </linearGradient>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.1" fill="#9ef7d3" fill-opacity=".9"/>
+    </pattern>
+    <clipPath id="portrait">
+      <path d="M920 146c0-47 29-78 70-78s70 31 70 78v20c0 12 10 23 22 31 9 6 14 17 12 28l-8 43c-4 19-17 33-36 39l-23 8v22H929v-22l-23-8c-19-6-32-20-36-39l-8-43c-2-11 3-22 12-28 12-8 22-19 22-31z"/>
+      <path d="M850 335c6-40 37-62 78-74l27-8h70l27 8c41 12 72 34 78 74z"/>
+    </clipPath>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <ellipse cx="690" cy="32" rx="420" ry="95" fill="#45d6b1" opacity=".22" filter="url(#glow)"/>
+  <ellipse cx="1110" cy="285" rx="240" ry="110" fill="#9b7cf5" opacity=".17" filter="url(#glow)"/>
+  <path d="M0 266c205-84 318-37 470-88s333-114 730-38v220H0z" fill="url(#aurora)"/>
+  <path d="M0 296c248-78 351-7 546-67s392-88 654-31" fill="none" stroke="#9ef7d3" stroke-opacity=".2" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="78" y="93" fill="#9ef7d3" font-size="17" font-weight="700" letter-spacing="4">COMPUTING · AI/ML · BACKEND</text>
+    <text x="75" y="194" fill="#02080e" opacity=".75" font-size="68" font-weight="800" letter-spacing="2">PRALAD NEUPANE</text>
+    <text x="71" y="188" fill="#1f8879" opacity=".88" font-size="68" font-weight="800" letter-spacing="2">PRALAD NEUPANE</text>
+    <text x="67" y="182" fill="url(#letters)" font-size="68" font-weight="800" letter-spacing="2">PRALAD NEUPANE</text>
+    <text x="78" y="231" fill="#d5e7e1" font-size="19">Building practical software and applied AI</text>
+    <text x="78" y="267" fill="#9ef7d3" font-size="15" letter-spacing="2">ITAHARI, NEPAL</text>
+  </g>
+  <rect x="830" y="57" width="300" height="290" fill="url(#dots)" clip-path="url(#portrait)" opacity=".95"/>
+  <circle cx="1069" cy="100" r="2" fill="#d8fff1" opacity=".7"/>
+  <circle cx="1135" cy="184" r="2" fill="#d8fff1" opacity=".6"/>
+  <circle cx="830" cy="112" r="2" fill="#d8fff1" opacity=".55"/>
+</svg>
