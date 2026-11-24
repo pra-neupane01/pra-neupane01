@@ -19,8 +19,6 @@ I'm a BSc (Hons) Computing undergraduate at Itahari International College (Londo
 
 **Primary stack**  
 ![Python](https://img.shields.io/badge/Python-142A39?style=flat-square&logo=python&logoColor=9EF7D3)
-![Java](https://img.shields.io/badge/Java-142A39?style=flat-square&logo=openjdk&logoColor=9EF7D3)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-142A39?style=flat-square&logo=springboot&logoColor=9EF7D3)
 ![React](https://img.shields.io/badge/React-142A39?style=flat-square&logo=react&logoColor=9EF7D3)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-142A39?style=flat-square&logo=postgresql&logoColor=9EF7D3)
 
